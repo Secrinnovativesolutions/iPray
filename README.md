@@ -1,4 +1,4 @@
 # iPray
-for the ipray apps page Repo
+for the ipray apps page 
 
 
